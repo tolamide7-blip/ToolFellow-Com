@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://toolfellow.com/sitemap.xml
